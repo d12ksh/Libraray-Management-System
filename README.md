@@ -26,7 +26,7 @@ Data is saved temporarily during the session.
 -- Data Storage: Simple file handling or in-memory storage in MS Excel.
 [CSV comma delimited for excel]
 
-# File Usage and Structures
+# Usage and Structures
 ├── database.py         # Main program file
 ├── book_name.txt          # File to store book records
 ├── README.md          # Project documentation
